@@ -9,7 +9,7 @@
       "id": "did:web:pradeepp88.github.io:acapy-did-web-demo#key-01",
       "type": "Multikey",
       "controller": "did:web:pradeepp88.github.io:acapy-did-web-demo",
-      "publicKeyMultibase": "DZ5NEBXwF98LeJL9T9ZQ5ZxU84LZiJjPrg2LGGxawErr"
+      "publicKeyMultibase": "CsBkK7XGaQRgZMdjXph8baxuy3vxeyMidsnCgisEqQfF"
     }
   ],
   "assertionMethod": [
