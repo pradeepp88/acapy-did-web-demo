@@ -3,26 +3,26 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/multikey/v1"
   ],
-  "id": "did:web:opsecid.github.io:acapy-did-web-demo",
+  "id": "did:web:pradeepp88.github.io:acapy-did-web-demo",
   "verificationMethod": [
     {
-      "id": "did:web:opsecid.github.io:acapy-did-web-demo#key-01",
+      "id": "did:web:pradeepp88.github.io:acapy-did-web-demo#key-01",
       "type": "Multikey",
-      "controller": "did:web:opsecid.github.io:acapy-did-web-demo",
-      "publicKeyMultibase": "z6MksjP8kcym3Jj9MroF3DLWt5dCHD6HHiTW9AjUYzXH5s1U"
+      "controller": "did:web:pradeepp88.github.io:acapy-did-web-demo",
+      "publicKeyMultibase": "DZ5NEBXwF98LeJL9T9ZQ5ZxU84LZiJjPrg2LGGxawErr"
     }
   ],
   "assertionMethod": [
-    "did:web:opsecid.github.io:acapy-did-web-demo#key-01"
+    "did:web:pradeepp88.github.io:acapy-did-web-demo#key-01"
   ],
   "authentication": [
-    "did:web:opsecid.github.io:acapy-did-web-demo#key-01"
+    "did:web:pradeepp88.github.io:acapy-did-web-demo#key-01"
   ],
   "service": [
     {
-      "id": "did:web:opsecid.github.io:acapy-did-web-demo#github",
+      "id": "did:web:pradeepp88.github.io:acapy-did-web-demo#github",
       "type": "LinkedDomains",
-      "serviceEndpoint": "https://github.com/opsecid/acapy-did-web-demo"
+      "serviceEndpoint": "https://github.com/pradeepp88/acapy-did-web-demo"
     }
   ]
 }
