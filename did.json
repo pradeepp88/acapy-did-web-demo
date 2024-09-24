@@ -6,17 +6,17 @@
   "id": "did:web:pradeepp88.github.io:acapy-did-web-demo",
   "verificationMethod": [
     {
-      "id": "did:web:pradeepp88.github.io:acapy-did-web-demo#CsBkK7XGaQRgZMdjXph8baxuy3vxeyMidsnCgisEqQfF",
+      "id": "did:web:pradeepp88.github.io:acapy-did-web-demo#7ftXLJvkukkSwc6XwpvkTovPFsFfdvB1yM8fZ16JXGiU",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:pradeepp88.github.io:acapy-did-web-demo",
-      "publicKeyBase58": "CsBkK7XGaQRgZMdjXph8baxuy3vxeyMidsnCgisEqQfF"
+      "publicKeyBase58": "7ftXLJvkukkSwc6XwpvkTovPFsFfdvB1yM8fZ16JXGiU"
     }
   ],
   "assertionMethod": [
-    "did:web:pradeepp88.github.io:acapy-did-web-demo#CsBkK7XGaQRgZMdjXph8baxuy3vxeyMidsnCgisEqQfF"
+    "did:web:pradeepp88.github.io:acapy-did-web-demo#7ftXLJvkukkSwc6XwpvkTovPFsFfdvB1yM8fZ16JXGiU"
   ],
   "authentication": [
-    "did:web:pradeepp88.github.io:acapy-did-web-demo#CsBkK7XGaQRgZMdjXph8baxuy3vxeyMidsnCgisEqQfF"
+    "did:web:pradeepp88.github.io:acapy-did-web-demo#7ftXLJvkukkSwc6XwpvkTovPFsFfdvB1yM8fZ16JXGiU"
   ],
   "service": [
     {
